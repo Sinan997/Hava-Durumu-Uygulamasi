@@ -1,6 +1,6 @@
-# havadurumu2
+# Hava Durumu
 
-A new Flutter project.
+Anlık hava durumunu getiren uygulama
 
 ## Getting Started
 
